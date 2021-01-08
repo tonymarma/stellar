@@ -1,9 +1,9 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
-FEDERATION_SERVER="https://api.domain.com/federation"
-AUTH_SERVER="https://api.domain.com/auth"
-TRANSFER_SERVER="https://api.domain.com"
-SIGNING_KEY="GBBHQ7H4V6RRORKYLHTCAWP6MOHNORRFJSDPXDFYDGJB2LPZUFPXUEW3"
-HORIZON_URL="https://horizon.domain.com"
+FEDERATION_SERVER="https://horizon-testnet.stellar.org"
+AUTH_SERVER="https://horizon-testnet.stellar.org/auth"
+TRANSFER_SERVER="https://horizon-testnet.stellar.org"
+SIGNING_KEY="SAWQEJ2ODGN7TCOB7PEOXYQC7RKHY6I76IYEMT5N5MROPPCRKQSGFSCU"
+HORIZON_URL="https://horizon-testnet.stellar.org"
 ACCOUNTS=[
 "GAOO3LWBC4XF6VWRP5ESJ6IBHAISVJMSBTALHOQM2EZG7Q477UWA6L7U"
 ]
